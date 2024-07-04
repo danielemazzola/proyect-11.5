@@ -1,0 +1,9 @@
+.app {
+  height: 100svh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(56, 56, 56);
+}
